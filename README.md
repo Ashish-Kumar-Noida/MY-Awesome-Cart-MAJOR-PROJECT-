@@ -1,0 +1,2 @@
+# MY-Awesome-Cart-MAJOR-PROJECT-
+My Awesome Cart is an interactive E-commerce website. It includes seven user surfable sections and ten sections for administrative controls. **ROLE IN THE PROJECT**:- designing the website sections using CSS and HTML, creating/editing/inserting CSS animations to make the website responsive and making it easy for users to navigate. Optimization of the website to reduce the loading times.
